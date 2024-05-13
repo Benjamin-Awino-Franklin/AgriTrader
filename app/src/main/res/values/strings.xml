@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgriTrader</string>
+    <string name="title_activity_auth_view_mode">AuthViewMode</string>
+</resources>

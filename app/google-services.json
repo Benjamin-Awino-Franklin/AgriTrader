@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627015462496",
+    "project_id": "agritrader-c85b2",
+    "storage_bucket": "agritrader-c85b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627015462496:android:d993abf98a6c1f0ace5d05",
+        "android_client_info": {
+          "package_name": "com.example.agritrader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1FordHzMmNWK8m2Yuwn6RT3oXGhlCeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
